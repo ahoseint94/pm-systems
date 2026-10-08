@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Project Manager Command Center",
+    "category": "Core PM Systems",
+    "description": "Run a project from one integrated control center.",
+    "price": "49",
+    "slug": "project-manager-command-center"
+  },
+  {
+    "id": 2,
+    "name": "Project Risk & RAID Intelligence Toolkit",
+    "category": "Project Control",
+    "description": "Turn risks, issues, assumptions and dependencies into response decisions.",
+    "price": "29",
+    "slug": "risk-raid-intelligence"
+  },
+  {
+    "id": 3,
+    "name": "Executive Project Reporting & Status Pack",
+    "category": "Project Control",
+    "description": "Create concise, decision-ready executive updates.",
+    "price": "24",
+    "slug": "executive-reporting-status"
+  },
+  {
+    "id": 4,
+    "name": "Project Recovery & Rescue Toolkit",
+    "category": "Project Control",
+    "description": "Diagnose troubled projects and execute a structured recovery.",
+    "price": "39",
+    "slug": "project-recovery-rescue"
+  },
+  {
+    "id": 5,
+    "name": "PM Decision-Making Toolkit",
+    "category": "Project Control",
+    "description": "Improve decision quality, trade-offs and escalation.",
+    "price": "29",
+    "slug": "pm-decision-making"
+  },
+  {
+    "id": 6,
+    "name": "Agile / Scrum Master Toolkit",
+    "category": "Specialist",
+    "description": "Run an Agile team through plan, execute, inspect and adapt.",
+    "price": "29",
+    "slug": "agile-scrum-master"
+  },
+  {
+    "id": 7,
+    "name": "PMO Governance Toolkit",
+    "category": "Governance",
+    "description": "Govern projects through health reviews, gates, assurance and escalation.",
+    "price": "39",
+    "slug": "pmo-governance"
+  },
+  {
+    "id": 8,
+    "name": "Ultimate Project Management Toolbox",
+    "category": "Flagship",
+    "description": "A unified PM operating system spanning the project lifecycle.",
+    "price": "99",
+    "slug": "ultimate-project-management-toolbox"
+  },
+  {
+    "id": 9,
+    "name": "Procurement & Vendor Management Toolkit",
+    "category": "Specialist",
+    "description": "Control sourcing, evaluation, negotiation and supplier performance.",
+    "price": "34",
+    "slug": "procurement-vendor-management"
+  },
+  {
+    "id": 10,
+    "name": "Resource & Capacity Planning Toolkit",
+    "category": "Specialist",
+    "description": "Turn capacity constraints into staffing and prioritization decisions.",
+    "price": "34",
+    "slug": "resource-capacity-planning"
+  },
+  {
+    "id": 11,
+    "name": "Requirements, Business Analysis & Scope Control Toolkit",
+    "category": "Specialist",
+    "description": "Discover, trace, validate and control requirements and scope.",
+    "price": "34",
+    "slug": "requirements-scope-control"
+  },
+  {
+    "id": 12,
+    "name": "Project Quality Assurance & Control Toolkit",
+    "category": "Specialist",
+    "description": "Plan, inspect, contain, correct and verify quality.",
+    "price": "29",
+    "slug": "quality-assurance-control"
+  },
+  {
+    "id": 13,
+    "name": "Project Schedule & Time Management Toolkit",
+    "category": "Project Control",
+    "description": "Baseline, forecast and recover schedule performance.",
+    "price": "34",
+    "slug": "schedule-time-management"
+  },
+  {
+    "id": 14,
+    "name": "Project Cost & Budget Management Toolkit",
+    "category": "Project Control",
+    "description": "Control budget, actuals, commitments, forecast and contingency.",
+    "price": "34",
+    "slug": "cost-budget-management"
+  },
+  {
+    "id": 15,
+    "name": "Project Stakeholder & Communications Management Toolkit",
+    "category": "Project Control",
+    "description": "Map, engage, communicate and escalate stakeholders.",
+    "price": "29",
+    "slug": "stakeholder-communications"
+  },
+  {
+    "id": 16,
+    "name": "Project Change Management & Organizational Change Toolkit",
+    "category": "Specialist",
+    "description": "Drive readiness, adoption, implementation and sustainment.",
+    "price": "34",
+    "slug": "change-management"
+  },
+  {
+    "id": 17,
+    "name": "Benefits Realization & Value Management Toolkit",
+    "category": "Governance",
+    "description": "Connect project delivery to measurable business value.",
+    "price": "39",
+    "slug": "benefits-realization"
+  },
+  {
+    "id": 18,
+    "name": "Project Integration & Delivery Management Toolkit",
+    "category": "Core PM Systems",
+    "description": "Integrate domains, dependencies, trade-offs and delivery decisions.",
+    "price": "49",
+    "slug": "integration-delivery-management"
+  },
+  {
+    "id": 19,
+    "name": "Project Audit, Assurance & Independent Review Toolkit",
+    "category": "Governance",
+    "description": "Review evidence, controls, findings and corrective actions.",
+    "price": "39",
+    "slug": "audit-assurance"
+  },
+  {
+    "id": 20,
+    "name": "Project Lessons Learned & Organizational Learning Toolkit",
+    "category": "Governance",
+    "description": "Convert experience into reusable knowledge and improvement.",
+    "price": "29",
+    "slug": "lessons-organizational-learning"
+  }
+]
